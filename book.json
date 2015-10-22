@@ -1,13 +1,10 @@
-{"title": " Python 学习 个人教程",
+{
+    "title": " Python 学习 个人教程",
     "version": "15.10.20,2020",
     "description": "OMOOC.py tutorial for teching",
     "author": "lingtutuya@outlook.com",
-
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {
-        "shortName": "lintutu"
-    }
+    "pluginsConfig": {}
 }
-
