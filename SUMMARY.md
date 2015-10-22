@@ -1,8 +1,8 @@
 # Summary
-- [个人教程](0MOOC/README.md)
-- [2w](1sTry/README.md)
-- [.](2nDev/README.md)
-- [...秀](3rDemo/README.md)
+- [.](0MOOC/README.md)
+- [..](1sTry/README.md)
+- [...](2nDev/README.md)
+- [....秀](3rDemo/README.md)
 - [代码 (_src)](_src/README.md)
 - [素材 (draft)](draft/README.md)
   + [教程该怎么写](draft/how2tutorial.md)
