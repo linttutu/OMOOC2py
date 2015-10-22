@@ -1,7 +1,0 @@
-
-{
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {"shortName":"lintutu"}
- }
