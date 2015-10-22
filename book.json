@@ -6,5 +6,5 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {"lintutu"}
 }
