@@ -1,5 +1,5 @@
 # Summary
-- [ow~1w](0MOOC/README.md)
+- [个人教程](0MOOC/README.md)
 - [2w](1sTry/README.md)
 - [.](2nDev/README.md)
 - [...秀](3rDemo/README.md)
